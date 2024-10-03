@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@iconify-prerendered/vue-bi": "^0.25.1704439122",
+    "@iconify-prerendered/vue-ic": "^0.25.1722794017",
+    "@iconify-prerendered/vue-mdi": "^0.25.1718880438",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
